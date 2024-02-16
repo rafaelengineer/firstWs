@@ -1,0 +1,14 @@
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\bin\Debug\net8.0\Client.exe
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\bin\Debug\net8.0\Client.deps.json
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\bin\Debug\net8.0\Client.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\bin\Debug\net8.0\Client.pdb
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\obj\Debug\net8.0\Client.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\obj\Debug\net8.0\refint\Client.dll
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\obj\Debug\net8.0\Client.pdb
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+C:\Users\rafael_so\OneDrive - TSEA\Documents\02 - teste codes\01 - Cs\firstWs\Client\obj\Debug\net8.0\ref\Client.dll
