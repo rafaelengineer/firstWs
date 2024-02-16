@@ -1,3 +1,3 @@
 "# firstWs"
 
-Simplest WebSocket application in C# Dotnte.
+Simplest WebSocket application in C# Dotnet.
