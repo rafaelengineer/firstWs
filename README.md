@@ -1,1 +1,3 @@
-"# firstWs - Simplest WebSocket application in C# Dotnte." 
+"# firstWs"
+
+Simplest WebSocket application in C# Dotnet.
